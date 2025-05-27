@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vier\\source\\repos\\FRMBIER\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E92521-69AE-4228-8F14-011CF17CACA3}|FRMBIER\\FRMBIER.csproj|c:\\users\\vier\\source\\repos\\frmbier\\frmbier\\frmgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0E92521-69AE-4228-8F14-011CF17CACA3}|FRMBIER\\FRMBIER.csproj|solutionrelative:frmbier\\frmgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0E92521-69AE-4228-8F14-011CF17CACA3}|FRMBIER\\FRMBIER.csproj|c:\\users\\vier\\source\\repos\\frmbier\\frmbier\\frmgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A0E92521-69AE-4228-8F14-011CF17CACA3}|FRMBIER\\FRMBIER.csproj|solutionrelative:frmbier\\frmgen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmGen.cs",
+              "DocumentMoniker": "C:\\Users\\vier\\source\\repos\\FRMBIER\\FRMBIER\\FrmGen.cs",
+              "RelativeDocumentMoniker": "FRMBIER\\FrmGen.cs",
+              "ToolTip": "C:\\Users\\vier\\source\\repos\\FRMBIER\\FRMBIER\\FrmGen.cs",
+              "RelativeToolTip": "FRMBIER\\FrmGen.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAuwOwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:11:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGen.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\vier\\source\\repos\\FRMBIER\\FRMBIER\\FrmGen.cs",
+              "RelativeDocumentMoniker": "FRMBIER\\FrmGen.cs",
+              "ToolTip": "C:\\Users\\vier\\source\\repos\\FRMBIER\\FRMBIER\\FrmGen.cs [Dise\u00F1o]",
+              "RelativeToolTip": "FRMBIER\\FrmGen.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T00:07:22.274Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\bin\Debug\FRMBIER.exe.config
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\bin\Debug\FRMBIER.exe
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\bin\Debug\FRMBIER.pdb
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\obj\Debug\FRMBIER.csproj.AssemblyReference.cache
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\obj\Debug\FRMBIER.Properties.Resources.resources
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\obj\Debug\FRMBIER.csproj.GenerateResource.cache
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\obj\Debug\FRMBIER.csproj.CoreCompileInputs.cache
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\obj\Debug\FRMBIER.exe
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\obj\Debug\FRMBIER.pdb
+C:\Users\vier\source\repos\FRMBIER\FRMBIER\obj\Debug\FRMBIER.FrmGen.resources
